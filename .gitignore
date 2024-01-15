@@ -1,0 +1,7 @@
+/Task.md
+/include/
+/lib/
+/scripts/
+/share/
+.env
+pyvenv.cfg
